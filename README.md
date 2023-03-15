@@ -1,4 +1,4 @@
-# RallyeRobot2023 - Groupe Riad Alirfane
+# Rallye Robot Maroc 2023 - Groupe Riad Alirfane 
 
 Concours Robotech au collège -- Edition 2023 - (MEN & ATD Tec) 
 Thème : Rallye-Robot (course contre la montre) 
